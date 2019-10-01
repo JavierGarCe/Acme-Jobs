@@ -25,6 +25,11 @@ The following tools and components are required:
 	- SQL Editor 1.0.0
 	- UMLet - UML Tool for Fast UML Diagrams 14.3
 	- Lombok 1.18.8
-uvus:fraperbar
-correo=fraperbar@alum.us.es
+
+The contributors to this project are:
+
+ -Javier Garcia Cerrada (javgarcer@alum.us.es)
+ -fraperbar (fraperbar@alum.us.es)
+ 
+
 
