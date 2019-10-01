@@ -29,4 +29,7 @@ The following tools and components are required:
 The contributors to this project are:
 
  -Javier Garcia Cerrada (javgarcer@alum.us.es)
+ -fraperbar (fraperbar@alum.us.es)
+ 
+
 
