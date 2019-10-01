@@ -28,4 +28,10 @@ The following tools and components are required:
 
 The contributors to this project are:
 
--Juan Fernández Fernández (juaferfer11@alum.us.es)
+ -Javier Garcia Cerrada (javgarcer@alum.us.es)
+ -fraperbar (fraperbar@alum.us.es)
+ -Juan Fernández Fernández (juaferfer11@alum.us.es)
+ 
+
+
+
